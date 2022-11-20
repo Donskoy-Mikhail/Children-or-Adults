@@ -6,8 +6,7 @@ kaggle notebook - https://www.kaggle.com/code/mikhaildonskoy/children-or-adults-
 Data source - https://www.kaggle.com/datasets/die9origephit/children-vs-adults-images
 
 
-To-do to improve:
-<ol>
+<ol>To-do to improve:
   <li>Collect more data</li>
   <li>Try efficientnet_v2_s</li>
 </ol>
