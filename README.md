@@ -7,8 +7,8 @@ Data source - https://www.kaggle.com/datasets/die9origephit/children-vs-adults-i
 
 
 To-do to improve:
-
-1:Collect more data
-2:Try efficientnet_v2_s
-
+<ol>
+  <li>Collect more data</li>
+  <li>Try efficientnet_v2_s</li>
+</ol>
 
